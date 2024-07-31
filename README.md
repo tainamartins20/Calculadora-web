@@ -3,7 +3,7 @@
 ## Descrição
 Este projeto é uma calculadora simples desenvolvida utilizando HTML, CSS e JavaScript. A calculadora permite realizar operações matemáticas básicas como adição, subtração, multiplicação e divisão.
 
-## Visualize o site: 
+## Visualize o site: [Visualizar Calculadora](https://tainamartins20.github.io/Calculadora-web/)
 
 ## Tecnologias Utilizadas
 - **HTML**: Para estruturar a interface da calculadora.
